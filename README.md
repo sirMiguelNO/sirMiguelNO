@@ -1,6 +1,6 @@
 *en construcción*
 > [!NOTE]
-> ⬇️ *(below in English)*
+> ⬇️ *(below in [English](#about-me))*
 # Sobre mi
 Hola a tod@s, mi nombre es **Miguel Navarro Oliveros**, y este es mi perfil de GitHub. 
 <p>Aunque actualmente me encuentro viviendo en Zamudio (Bizkaia) soy de Jaén (Andalucía) <img src="https://github.com/user-attachments/assets/3476f2aa-be3a-4e9b-b40e-c1b042b9e6bc" width="45" align="absmiddle" alt="giphy" /></p>
@@ -22,3 +22,5 @@ A destacar:
 * Scipion
 
 De igual forma también he adquirido manejo tanto en Linux como en programación con lenguaje Python.
+
+# About me
